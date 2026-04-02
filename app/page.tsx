@@ -47,7 +47,11 @@ export default function MeteoAgriasPublicPage() {
                 fontSize: '28px',
               }}
             >
-              🌦️
+              <img 
+  src="/logo.png" 
+  alt="Meteo Αγριάς"
+  style={{ width: '56px', height: '56px', borderRadius: '12px' }}
+/>
             </div>
             <div>
               <div style={{ fontSize: '28px', fontWeight: 700 }}>Meteo Αγριάς</div>
